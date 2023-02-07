@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhaochen_blog=self.webpackChunkhaochen_blog||[]).push([[6134],{4126:l=>{l.exports=JSON.parse('{"label":"Shallow Copy","permalink":"/blog/tags/shallow-copy","allTagsPath":"/blog/tags","count":1}')}}]);

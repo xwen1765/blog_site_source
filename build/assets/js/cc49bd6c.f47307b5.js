@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhaochen_blog=self.webpackChunkhaochen_blog||[]).push([[2963],{1096:e=>{e.exports=JSON.parse('{"label":"Bucket Operation","permalink":"/blog/tags/bucket-operation","allTagsPath":"/blog/tags","count":1}')}}]);

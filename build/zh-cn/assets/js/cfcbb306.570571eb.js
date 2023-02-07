@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhaochen_blog=self.webpackChunkhaochen_blog||[]).push([[3507],{8597:a=>{a.exports=JSON.parse('{"label":"Custom Domain","permalink":"/zh-cn/blog/tags/custom-domain","allTagsPath":"/zh-cn/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhaochen_blog=self.webpackChunkhaochen_blog||[]).push([[2713],{3602:a=>{a.exports=JSON.parse('{"label":"Paas","permalink":"/blog/tags/paas","allTagsPath":"/blog/tags","count":1}')}}]);

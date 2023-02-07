@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhaochen_blog=self.webpackChunkhaochen_blog||[]).push([[1633],{7424:a=>{a.exports=JSON.parse('{"label":"django","permalink":"/blog/tags/django","allTagsPath":"/blog/tags","count":1}')}}]);

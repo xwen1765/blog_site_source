@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhaochen_blog=self.webpackChunkhaochen_blog||[]).push([[1296],{3113:a=>{a.exports=JSON.parse('{"label":"Application Gateway","permalink":"/zh-cn/blog/tags/application-gateway","allTagsPath":"/zh-cn/blog/tags","count":1}')}}]);

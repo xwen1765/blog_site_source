@@ -1,0 +1,152 @@
+[
+  {
+    "label": "Azure App Service",
+    "permalink": "/tags/azure-app-service",
+    "count": 3
+  },
+  {
+    "label": "DDoS",
+    "permalink": "/tags/d-do-s",
+    "count": 1
+  },
+  {
+    "label": "Application Gateway",
+    "permalink": "/tags/application-gateway",
+    "count": 1
+  },
+  {
+    "label": "WAF",
+    "permalink": "/tags/waf",
+    "count": 1
+  },
+  {
+    "label": "Custom Domain",
+    "permalink": "/tags/custom-domain",
+    "count": 1
+  },
+  {
+    "label": "TLS/SSL Binding",
+    "permalink": "/tags/tls-ssl-binding",
+    "count": 1
+  },
+  {
+    "label": "Certificate",
+    "permalink": "/tags/certificate",
+    "count": 1
+  },
+  {
+    "label": "HTTPS",
+    "permalink": "/tags/https",
+    "count": 1
+  },
+  {
+    "label": "Blob Function",
+    "permalink": "/tags/blob-function",
+    "count": 1
+  },
+  {
+    "label": "Azure Functions",
+    "permalink": "/tags/azure-functions",
+    "count": 1
+  },
+  {
+    "label": "Paas",
+    "permalink": "/tags/paas",
+    "count": 1
+  },
+  {
+    "label": "JavaScript",
+    "permalink": "/tags/java-script",
+    "count": 1
+  },
+  {
+    "label": "Interview Qustions",
+    "permalink": "/tags/interview-qustions",
+    "count": 1
+  },
+  {
+    "label": "Node.js",
+    "permalink": "/tags/node-js",
+    "count": 1
+  },
+  {
+    "label": "AWS S3",
+    "permalink": "/tags/aws-s-3",
+    "count": 1
+  },
+  {
+    "label": "Bucket Operation",
+    "permalink": "/tags/bucket-operation",
+    "count": 1
+  },
+  {
+    "label": "Javascript",
+    "permalink": "/tags/javascript",
+    "count": 1
+  },
+  {
+    "label": "Deep Copy",
+    "permalink": "/tags/deep-copy",
+    "count": 1
+  },
+  {
+    "label": "Shallow Copy",
+    "permalink": "/tags/shallow-copy",
+    "count": 1
+  },
+  {
+    "label": "django",
+    "permalink": "/tags/django",
+    "count": 1
+  },
+  {
+    "label": "heroku",
+    "permalink": "/tags/heroku",
+    "count": 1
+  },
+  {
+    "label": "backend",
+    "permalink": "/tags/backend",
+    "count": 1
+  },
+  {
+    "label": "Web Accessibility",
+    "permalink": "/tags/web-accessibility",
+    "count": 1
+  },
+  {
+    "label": "Web development",
+    "permalink": "/tags/web-development",
+    "count": 1
+  },
+  {
+    "label": "react",
+    "permalink": "/tags/react",
+    "count": 3
+  },
+  {
+    "label": "contentful",
+    "permalink": "/tags/contentful",
+    "count": 1
+  },
+  {
+    "label": "furniture",
+    "permalink": "/tags/furniture",
+    "count": 1
+  },
+  {
+    "label": "receipe",
+    "permalink": "/tags/receipe",
+    "count": 1
+  },
+  {
+    "label": "EDAMAM",
+    "permalink": "/tags/edamam",
+    "count": 1
+  },
+  {
+    "label": "docusaurus",
+    "permalink": "/tags/docusaurus",
+    "count": 1
+  }
+]

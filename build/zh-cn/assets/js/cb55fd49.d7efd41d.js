@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhaochen_blog=self.webpackChunkhaochen_blog||[]).push([[5761],{3668:e=>{e.exports=JSON.parse('{"label":"Certificate","permalink":"/zh-cn/blog/tags/certificate","allTagsPath":"/zh-cn/blog/tags","count":1}')}}]);
