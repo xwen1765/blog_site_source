@@ -2,7 +2,7 @@
   "permalink": "/blog/understand-copy-in-js",
   "source": "@site/blog/2021-04-14-copy-in-js.md",
   "title": "Shallow Copy vs. Deep Copy",
-  "description": "question",
+  "description": "",
   "date": "2021-04-14T00:00:00.000Z",
   "formattedDate": "April 14, 2021",
   "tags": [
@@ -19,8 +19,8 @@
       "permalink": "/blog/tags/shallow-copy"
     }
   ],
-  "readingTime": 3.475,
-  "hasTruncateMarker": true,
+  "readingTime": 0.225,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Haochen Qi",

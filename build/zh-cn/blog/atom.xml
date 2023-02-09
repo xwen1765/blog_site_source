@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xwen1765.github.io/zh-cn/blog"/>
     <subtitle>Xuan Wen Blog</subtitle>
-    <icon>https://xwen1765.github.io/zh-cn/img/favicon.ico</icon>
+    <icon>https://xwen1765.github.io/zh-cn/img/xuan_logo_character.png</icon>
     <entry>
         <title type="html"><![CDATA[How to Protect Your Azure App Service App from DDoS Attacks]]></title>
         <id>https://xwen1765.github.io/zh-cn/blog/protect-app-service-from-ddos-attacks</id>

@@ -9,7 +9,7 @@ module.exports = {
   titleDelimiter: "-",
   url: 'https://xwen1765.github.io/',
   baseUrl: "/",
-  favicon: "img/favicon.ico",
+  favicon: "img/xuan_logo_character.png",
 
   organizationName: 'xwen1765',
   projectName: 'xwen1765.github.io',
@@ -39,29 +39,53 @@ module.exports = {
   // onBrokenMarkdownLinks: "warn",
   
   stylesheets: ["https://fonts.font.im/css?family=Raleway:500,700"],
+  themes: ['@docusaurus/theme-live-codeblock'],
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
     navbar: {
       title: "Xuan Wen",
       logo: {
         alt: "My Site Logo",
-        src: "img/haochen.logo.svg",
+        src: "img/xuan_logo.png",
       },
       items: [
-        // {
-        //   to: "docs/",
-        //   activeBasePath: "docs",
-        //   label: "Docs",
-        //   position: "left",
-        // },
-        { type: "localeDropdown", position: "right" },
-        { to: "blog", label: "Blog", position: "right" },
+        {
+          type: 'dropdown',
+          to: "docs/",
+          activeBasePath: "docs",
+          label: "Articles",
+          position: "right",
 
+          items: [
+            {
+              type: 'doc',
+              label: 'test1',
+              docId: 'doc1',
+            },
+            {
+              type: 'doc',
+              label: 'test2',
+              docId: 'test/mdx2',
+            },
+          ],
+         
+        },
+
+        { type: "localeDropdown", position: "left" },
+        // { to: "blog", label: "Blog", position: "right" },
         {
           href: "https://github.com/xwen1765",
           label: "GitHub",
           position: "right",
         },
       ],
+    },
+    liveCodeBlock: {      
+      playgroundPosition: 'bottom',
     },
     footer: {
       style: "dark",
@@ -71,60 +95,36 @@ module.exports = {
           items: [
             {
               label: "Linkedin",
-              href: "https://www.linkedin.com/in/haochen-qi-a36393171/",
+              href: "https://linkedin.com/in/xuan-wen",
             },
             {
-              label: "Facebook",
-              href: "https://www.facebook.com/haochen.qi.520",
+              label: "Twitter",
+              href: "https://twitter.com/docusaurus",
             },
           ],
         },
-        // {
-        //   title: "Docusaurus",
-        //   items: [
-        //     {
-        //       label: "Style Guide",
-        //       to: "docs/",
-        //     },
-        //     {
-        //       label: "Second Doc",
-        //       to: "docs/doc2/",
-        //     },
-        //   ],
-        // },
-        // {
-        //   title: "Community",
-        //   items: [
-        //     {
-        //       label: "Stack Overflow",
-        //       href: "https://stackoverflow.com/questions/tagged/docusaurus",
-        //     },
-        //     {
-        //       label: "Discord",
-        //       href: "https://discordapp.com/invite/docusaurus",
-        //     },
-        //     {
-        //       label: "Twitter",
-        //       href: "https://twitter.com/docusaurus",
-        //     },
-        //   ],
-        // },
         {
           title: "More",
           items: [
-            {
-              label: "Blog",
-              to: "blog",
-            },
+            // {
+            //   label: "Blog",
+            //   to: "blog",
+            // },
             {
               label: "GitHub",
               href: "https://github.com/xwen1765",
+            },
+            {
+              html: `
+              <a href="https://storyset.com/education">Education illustrations by Storyset</a>
+                `,
             },
           ],
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Xuan Wen. Built with Docusaurus.`,
     },
+
   },
   presets: [
     [

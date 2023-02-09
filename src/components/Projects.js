@@ -4,45 +4,35 @@ import Translate from "@docusaurus/Translate";
 const Projects = () => {
   const works = [
     {
-      stack: ["react", "eCommerce", "React hooks"],
+      stack: ["Learning", "Attention", "Control"],
       description:
-        "Cozy Space is an online furniture store for you to design your dream home. You can easily find your favorite piece from our various morden furnitures by using the filter function. It is built with React, React hooks(useReduce and useContext) are utlized to manage the state.",
-      title: "Cozy Space",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate commodo arcu, laoreet viverra lorem imperdiet et. Phasellus aliquam ultricies dui, non suscipit metus aliquet in. Quisque varius lorem porta nulla rhoncus, gravida mollis mi interdum. Suspendisse congue lectus vitae nisl consectetur, sit amet placerat nisl ullamcorper. Praesent eget efficitur ex. Nullam consequat nisl non enim hendrerit, in bibendum sapien dignissim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur vitae sapien quis lorem lacinia bibendum. Pellentesque ut blandit augue. Ut sit amet ante eros. Aenean ut urna vitae libero placerat ornare. Praesent consequat eu nulla accumsan hendrerit. Fusce hendrerit orci leo, a rutrum metus tincidunt sed.",
+      title: "Sequence Learning",
       github: "https://github.com/HaochenQ/React-Furniture-Store",
       url: "https://cozyspace.haochenqi.com/",
-      image: "img/furniture-store.png",
+      image: "img/website_imgs.001.png",
       index: 0,
     },
 
     {
-      stack: ["react", "recipe", "Restful API"],
+      stack: ["Stimuli", "Cognitive Science"],
       description:
-        "Find the recipe you need on this recipe web app, simply by typing in the keywords like 'beef soap' or 'korean food'. Follow the instructions and make food for you and your family.",
-      title: "Find Your Recipe",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate commodo arcu, laoreet viverra lorem imperdiet et. Phasellus aliquam ultricies dui, non suscipit metus aliquet in. Quisque varius lorem porta nulla rhoncus, gravida mollis mi interdum. Suspendisse congue lectus vitae nisl consectetur, sit amet placerat nisl ullamcorper. Praesent eget efficitur ex. Nullam consequat nisl non enim hendrerit, in bibendum sapien dignissim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur vitae sapien quis lorem lacinia bibendum. Pellentesque ut blandit augue. Ut sit amet ante eros. Aenean ut urna vitae libero placerat ornare. Praesent consequat eu nulla accumsan hendrerit. Fusce hendrerit orci leo, a rutrum metus tincidunt sed.",
+      title: "Quaddle2.0: A 3D Multi-Dimentional Stimuli",
       github: "https://github.com/HaochenQ/React-Furniture-Store",
       url: "https://recipe-app.haochenq.vercel.app/",
-      image: "img/Recipe-hub.png",
+      image: "img/website_imgs.002.png",
       index: 1,
     },
     {
-      stack: ["Django", "Blog System", "Backend"],
+      stack: ["Consciousness", "ToC"],
       description:
-        "This is a blog system where you could create and update your account, post and update your own content and view other people's posts. This project is built with Django.",
-      title: "Django Blog",
-      github: "https://github.com/HaochenQ/Django-blog",
-      url: "https://quiet-escarpment-41189.herokuapp.com/",
-      image: "img/django-blog.png",
-      index: 2,
-    },
-    {
-      stack: ["Mobile APP", "React Native"],
-      description:
-        "DoneWithIt is a cross-platform mobile application built with React Native(expo). It is a place where you can make your old staff become valuable again or get good products at preferential prices.",
-      title: "Done With It",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate commodo arcu, laoreet viverra lorem imperdiet et. Phasellus aliquam ultricies dui, non suscipit metus aliquet in. Quisque varius lorem porta nulla rhoncus, gravida mollis mi interdum. Suspendisse congue lectus vitae nisl consectetur, sit amet placerat nisl ullamcorper. Praesent eget efficitur ex. Nullam consequat nisl non enim hendrerit, in bibendum sapien dignissim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur vitae sapien quis lorem lacinia bibendum. Pellentesque ut blandit augue. Ut sit amet ante eros. Aenean ut urna vitae libero placerat ornare. Praesent consequat eu nulla accumsan hendrerit. Fusce hendrerit orci leo, a rutrum metus tincidunt sed.",
+      title: "Investigating Integrated Information Theory (IIT)",
       github: "https://github.com/HaochenQ/DoneWithIt",
       url: "https://expo.io/@haochen/projects/DoneWithIt",
-      image: "img/APP.jpg",
-      index: 3,
+      image: "img/website_imgs.003.png",
+      index: 2,
     },
   ];
   return (

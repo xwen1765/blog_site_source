@@ -1,0 +1,18 @@
+{
+  "unversionedId": "test/mdx",
+  "id": "test/mdx",
+  "title": "Powered by MDX",
+  "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+  "source": "@site/docs/test/mdx 2.md",
+  "sourceDirName": "test",
+  "slug": "/test/mdx",
+  "permalink": "/zh-cn/docs/test/mdx",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/test/mdx 2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "mdx",
+    "title": "Powered by MDX"
+  }
+}

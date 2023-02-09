@@ -8,7 +8,7 @@ export default {
   "titleDelimiter": "-",
   "url": "https://xwen1765.github.io",
   "baseUrl": "/zh-cn/",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/xuan_logo_character.png",
   "organizationName": "xwen1765",
   "projectName": "xwen1765.github.io",
   "trailingSlash": false,
@@ -33,24 +33,46 @@ export default {
   "stylesheets": [
     "https://fonts.font.im/css?family=Raleway:500,700"
   ],
+  "themes": [
+    "@docusaurus/theme-live-codeblock"
+  ],
   "themeConfig": {
+    "colorMode": {
+      "defaultMode": "dark",
+      "disableSwitch": false,
+      "respectPrefersColorScheme": false
+    },
     "navbar": {
       "title": "温轩",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/haochen.logo.svg"
+        "src": "img/xuan_logo.png"
       },
       "items": [
         {
-          "type": "localeDropdown",
+          "type": "dropdown",
+          "to": "docs/",
+          "activeBasePath": "docs",
+          "label": "Articles",
           "position": "right",
-          "dropdownItemsBefore": [],
-          "dropdownItemsAfter": []
+          "items": [
+            {
+              "type": "doc",
+              "label": "test1",
+              "docId": "doc1"
+            },
+            {
+              "type": "doc",
+              "label": "test2",
+              "docId": "test/mdx2"
+            }
+          ]
         },
         {
-          "to": "blog",
-          "label": "博客",
-          "position": "right"
+          "type": "localeDropdown",
+          "position": "left",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         },
         {
           "href": "https://github.com/xwen1765",
@@ -60,6 +82,9 @@ export default {
       ],
       "hideOnScroll": false
     },
+    "liveCodeBlock": {
+      "playgroundPosition": "bottom"
+    },
     "footer": {
       "style": "dark",
       "links": [
@@ -67,12 +92,12 @@ export default {
           "title": "社交平台",
           "items": [
             {
-              "label": "Linkedin",
-              "href": "https://www.linkedin.com/in/haochen-qi-a36393171/"
+              "label": "领英",
+              "href": "https://linkedin.com/in/xuan-wen"
             },
             {
-              "label": "Facebook",
-              "href": "https://www.facebook.com/haochen.qi.520"
+              "label": "Twitter",
+              "href": "https://twitter.com/docusaurus"
             }
           ]
         },
@@ -80,22 +105,16 @@ export default {
           "title": "更多",
           "items": [
             {
-              "label": "博客",
-              "to": "blog"
-            },
-            {
               "label": "GitHub",
               "href": "https://github.com/xwen1765"
+            },
+            {
+              "html": "\n              <a href=\"https://storyset.com/education\">Education illustrations by Storyset</a>\n                "
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2021 Haochen Built with Docusaurus."
-    },
-    "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false
+      "copyright": "Copyright © 2021 Xuan Wen Built with Docusaurus."
     },
     "docs": {
       "versionPersistence": "localStorage",
@@ -279,7 +298,6 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
-  "themes": [],
   "scripts": [],
   "headTags": [],
   "clientModules": [],

@@ -5,6 +5,32 @@ sidebar_label: Style Guide
 slug: /
 ---
 
+```jsx live
+function Clock() {
+  const [time, setTime] = useState(new Date().toLocaleTimeString());
+
+  useEffect(() => {
+    const intervalId = setInterval(() => {
+      setTime(new Date().toLocaleTimeString());
+    }, 1000);
+    return () => clearInterval(intervalId);
+  }, []);
+
+  return (
+    <div>
+      <p>The time is:</p>
+      <h2>{time}</h2>
+    </div>
+  );
+}
+
+
+```
+
+
+
+
+
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
 ## Markdown Syntax

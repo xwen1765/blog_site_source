@@ -587,28 +587,36 @@
     "sidebar": "814f3328",
     "content": "2818f1da"
   },
-  "/zh-cn/docs-dea": {
+  "/zh-cn/docs-bf6": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "be909a57"
     },
     "versionMetadata": "935f2afb"
   },
-  "/zh-cn/docs-d5c": {
+  "/zh-cn/docs-7e0": {
     "__comp": "17896441",
     "content": "b2f90839"
   },
-  "/zh-cn/docs/doc2-ed4": {
+  "/zh-cn/docs/doc2-b85": {
     "__comp": "17896441",
     "content": "df361e2b"
   },
-  "/zh-cn/docs/doc3-b2f": {
+  "/zh-cn/docs/doc3-3b4": {
     "__comp": "17896441",
     "content": "616665f6"
   },
-  "/zh-cn/docs/mdx-424": {
+  "/zh-cn/docs/mdx-c3d": {
     "__comp": "17896441",
     "content": "ce3e42ad"
+  },
+  "/zh-cn/docs/test/mdx2-cbc": {
+    "__comp": "17896441",
+    "content": "1abea89e"
+  },
+  "/zh-cn/docs/test/mdx3-425": {
+    "__comp": "17896441",
+    "content": "f78249fa"
   },
   "/zh-cn/-26b": {
     "__comp": "c4f5d8e4",

@@ -162,15 +162,6 @@
     "message": "Skip to main content",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
-  "A Melbourne University graduate who has a great passion for web development. While keeping updated with the most recent technologies, I always seek to improve and grow as a professional full-stack web developer as well as a person.": {
-    "message": "我是一名墨尔本大学毕业生，对网络开发充满热情。 在与最新技术保持同步的同时，我始终寻求进步并成长为专业的全栈 Web 开发人员。"
-  },
-  "My Skills:": {
-    "message": "相关技能:"
-  },
-  "My Resume": {
-    "message": "我的简历"
-  },
   "Contact Me": {
     "message": "欢迎留言"
   },
@@ -293,5 +284,34 @@
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
     "message": "切换导航栏",
     "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.Playground.result": {
+    "message": "结果",
+    "description": "The result label of the live codeblocks"
+  },
+  "theme.Playground.liveEditor": {
+    "message": "实时编辑器",
+    "description": "The live editor label of the live codeblocks"
+  },
+  "Education & Experience": {
+    "message": "教育及实习经历"
+  },
+  "PhD student in Neuroscience at Vanderbilt University, Brain Institute (VBI). Interested in higher-order cognitive function, human and machine intelligence and computational neuroscience.": {
+    "message": "范德堡大学神经科学系博士在读。"
+  },
+  "My CV": {
+    "message": "我的CV"
+  },
+  "Social Media:": {
+    "message": "联系方式:"
+  },
+  "Xuan Wen": {
+    "message": "温轩"
+  },
+  "Vanderbilt University": {
+    "message": "范德堡大学"
+  },
+  "PhD in Neuroscience": {
+    "message": "神经科学博士"
   }
 }

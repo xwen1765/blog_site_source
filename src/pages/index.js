@@ -1,4 +1,5 @@
 import React from "react";
+import  { useState, useEffect } from 'react';
 import clsx from "clsx";
 import Layout from "@theme/Layout";
 import { Typography, Grid, Button } from "@material-ui/core";
@@ -9,9 +10,8 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useTrail, animated, useSpring } from "react-spring";
-import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
-import resume from "../../static/files/resume.pdf";
-import Project from "../components/Project";
+import { faLinkedin, faGithub, faWeixin } from "@fortawesome/free-brands-svg-icons";
+import resume from "../../static/files/CV.pdf";
 import Projects from "../components/Projects";
 // import Contact from "../components/Contact";
 import Experience from "../components/Experience";
@@ -37,6 +37,17 @@ function Home() {
     delay: 200,
   });
 
+  const animatedTextsMainbody = useTrail(5, {
+    from: { opacity: 0, transform: "translateY(3em)" },
+    to: { opacity: 0.8, transform: "translateY(0)" },
+    config: {
+      mass: 3,
+      friction: 45,
+      tension: 460,
+    },
+    delay: 200,
+  });
+
   return (
     <Layout
       //title={` ${siteConfig.title}`}
@@ -49,24 +60,22 @@ function Home() {
           <animated.div style={animatedTexts[0]}>
             <Typography variant="h2" gutterBottom>
               <Translate>Hello! I am</Translate>
-              <span className="intro__name"> {siteConfig.title}</span>
+              <span className="intro__name"> <Translate>Xuan Wen</Translate></span>
               {/* <Typography variant="body2">
                 <span>{siteConfig.tagline}</span>
               </Typography> */}
             </Typography>
           </animated.div>
-          <animated.div style={animatedTexts[1]}>
-            <Typography variant="body1">
+          <animated.div style={{...animatedTextsMainbody[0], fontSize: '20px'}}>
+            <Typography variant="body0">
               <Translate>
-                A Melbourne University graduate who has a great passion for web
-                development. While keeping updated with the most recent
-                technologies, I always seek to improve and grow as a
-                professional full-stack web developer as well as a person.
+                PhD student in Neuroscience at Vanderbilt University, Brain Institute (VBI). 
+                Interested in higher-order cognitive function, human and machine intelligence and computational neuroscience.
               </Translate>{" "}
             </Typography>
           </animated.div>
           &nbsp;
-          <animated.div style={animatedTexts[2]}>
+          {/* <animated.div style={animatedTexts[2]}>
             <Typography variant="h6" gutterBottom>
               <Translate>My Skills:</Translate>
             </Typography>
@@ -75,27 +84,28 @@ function Home() {
               Azure, etc.
             </Typography>
           </animated.div>
-          &nbsp;
-          <animated.p style={animatedTexts[3]}>
+          &nbsp; */}
+          <animated.p style={animatedTexts[2]}>
             <Button
-              style={{ textTransform: "none" }}
+              style={{ textTransform: "none", borderWidth: "3px" }}
               color="primary"
               variant="outlined"
-              size="small"
+              size="large"
               href={resume}
             >
-              <Translate>My Resume</Translate>
+              <Translate>My CV</Translate>
             </Button>
           </animated.p>
-          <SocialLinks animatedProps={animatedTexts[4]} />
+          <SocialLinks animatedProps={animatedTexts[3]} />
         </Grid>
 
         <Grid item xs={12} lg={6} className="homeImg">
           {/* <img src={useBaseUrl(image)} className="image" /> */}
           <animated.img
-            src={useBaseUrl("img/person-researching-stem-concepts.png")}
+            src={useBaseUrl("img/Mathematics-bro.svg")}
             style={animatedHero}
           />
+          
         </Grid>
       </Grid>
       {/* Experiences section */}
@@ -115,24 +125,31 @@ function Home() {
 }
 
 function SocialLinks({ animatedProps, ...props }) {
+
   return (
     <animated.div className="social__links" style={animatedProps}>
-      <Grid container spacing={2}>
+      <Grid container spacing={3}>
         <Grid item>
           <Typography display={"inline"} gutterBottom>
-            Social Media:
+            <Translate>Social Media:</Translate>
           </Typography>
         </Grid>
         <Grid item>
           <a href="https://www.linkedin.com/in/hcq/">
-            <FontAwesomeIcon icon={faLinkedin} />
+            <FontAwesomeIcon icon={faLinkedin}  style={{ fontSize: '32px' }}/>
           </a>
         </Grid>
         <Grid item>
-          <a href="https://github.com/HaochenQ">
-            <FontAwesomeIcon icon={faGithub} />
+          <a href="https://github.com/xwen1765">
+            <FontAwesomeIcon icon={faGithub} style={{ fontSize: '32px' }}/>
           </a>
         </Grid>
+        <Grid item>
+          <a href="img/weixin.jpg">
+            <FontAwesomeIcon icon={faWeixin} style={{ fontSize: '32px' }}/>
+          </a>
+        </Grid>
+
       </Grid>
     </animated.div>
   );
