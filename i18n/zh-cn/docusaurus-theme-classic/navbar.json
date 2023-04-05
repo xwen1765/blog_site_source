@@ -22,5 +22,17 @@
   "item.label.test2": {
     "message": "test2",
     "description": "Navbar item with label test2"
+  },
+  "item.label.Articles": {
+    "message": "Articles",
+    "description": "Navbar item with label Articles"
+  },
+  "item.label.IIT": {
+    "message": "IIT",
+    "description": "Navbar item with label IIT"
+  },
+  "item.label.Sequence Learning": {
+    "message": "Sequence Learning",
+    "description": "Navbar item with label Sequence Learning"
   }
 }

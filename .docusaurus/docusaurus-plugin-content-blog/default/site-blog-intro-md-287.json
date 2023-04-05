@@ -1,0 +1,22 @@
+{
+  "permalink": "/blog/Intro",
+  "source": "@site/blog/Intro.md",
+  "title": "Introduction",
+  "description": "",
+  "date": "2023-02-11T21:45:16.576Z",
+  "formattedDate": "February 11, 2023",
+  "tags": [],
+  "readingTime": 0,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "id": "doc12",
+    "title": "Introduction",
+    "sidebar_label": "Intro",
+    "index": 1
+  },
+  "nextItem": {
+    "title": "Welcome Docusaurus v2 🔬",
+    "permalink": "/blog/welcome-docusaurus-v2"
+  }
+}

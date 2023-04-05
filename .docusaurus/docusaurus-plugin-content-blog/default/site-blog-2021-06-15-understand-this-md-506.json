@@ -36,13 +36,5 @@
       "JavaScript",
       "Interview Qustions"
     ]
-  },
-  "prevItem": {
-    "title": "Azure Blob Functions's Re-triggering Issue",
-    "permalink": "/blog/azure-blob-function-retriggering"
-  },
-  "nextItem": {
-    "title": "How to Upload Files to AWS S3 in Node.js?",
-    "permalink": "/blog/upload-files-to-s3-iwth-node"
   }
 }

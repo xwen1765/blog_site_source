@@ -2,24 +2,8 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "How to Protect Your Azure App Service App from DDoS Attacks",
-      "permalink": "/zh-cn/blog/protect-app-service-from-ddos-attacks"
-    },
-    {
-      "title": "Map your Custom Domain to Your App Service App",
-      "permalink": "/zh-cn/blog/azure-app-service-custom-domain"
-    },
-    {
-      "title": "Azure Blob Functions's Re-triggering Issue",
-      "permalink": "/zh-cn/blog/azure-blob-function-retriggering"
-    },
-    {
-      "title": "理解 JavaScript 中的 This, Bind, Call 和 Apply",
-      "permalink": "/zh-cn/blog/understand-this-in-one-article"
-    },
-    {
-      "title": "How to Upload Files to AWS S3 in Node.js?",
-      "permalink": "/zh-cn/blog/upload-files-to-s3-iwth-node"
+      "title": "Welcome Docusaurus v2 🔬",
+      "permalink": "/blog/welcome-docusaurus-v2"
     }
   ]
 }

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhaochen_blog=self.webpackChunkhaochen_blog||[]).push([[3681],{489:a=>{a.exports=JSON.parse('{"label":"EDAMAM","permalink":"/zh-cn/blog/tags/edamam","allTagsPath":"/zh-cn/blog/tags","count":1}')}}]);

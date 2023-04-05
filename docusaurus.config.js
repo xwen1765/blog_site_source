@@ -9,7 +9,7 @@ module.exports = {
   titleDelimiter: "-",
   url: 'https://xwen1765.github.io/',
   baseUrl: "/",
-  favicon: "img/xuan_logo_character.png",
+  favicon: "img/favicon.png",
 
   organizationName: 'xwen1765',
   projectName: 'xwen1765.github.io',
@@ -42,7 +42,7 @@ module.exports = {
   themes: ['@docusaurus/theme-live-codeblock'],
   themeConfig: {
     colorMode: {
-      defaultMode: 'dark',
+      defaultMode: 'light',
       disableSwitch: false,
       respectPrefersColorScheme: false,
     },
@@ -55,7 +55,7 @@ module.exports = {
       items: [
         {
           type: 'dropdown',
-          to: "docs/",
+          to: "docs/IIT",
           activeBasePath: "docs",
           label: "Articles",
           position: "right",
@@ -63,20 +63,23 @@ module.exports = {
           items: [
             {
               type: 'doc',
-              label: 'test1',
-              docId: 'doc1',
+              label: 'IIT (Φ👀)',
+              docId: 'IIT/doc1',
             },
             {
               type: 'doc',
-              label: 'test2',
-              docId: 'test/mdx2',
+              label: 'Sequence Learning 🧠',
+              docId: 'Sequence Learning/SL_Intro',
+            },
+            {
+              type: 'doc',
+              label: 'Quaddle2.0',
+              docId: 'Quaddle2.0/quaddle_01',
             },
           ],
-         
         },
-
         { type: "localeDropdown", position: "left" },
-        // { to: "blog", label: "Blog", position: "right" },
+        { to: "blog", label: "Reading Notes", position: "right" },
         {
           href: "https://github.com/xwen1765",
           label: "GitHub",
@@ -99,7 +102,7 @@ module.exports = {
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              href: "https://linkedin.com/in/xuan-wen",
             },
           ],
         },
@@ -117,6 +120,11 @@ module.exports = {
             {
               html: `
               <a href="https://storyset.com/education">Education illustrations by Storyset</a>
+                `,
+            },
+            {
+              html: `
+              <a href="https://storyset.com/data">Data illustrations by Storyset</a>
                 `,
             },
           ],

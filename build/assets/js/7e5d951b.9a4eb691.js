@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhaochen_blog=self.webpackChunkhaochen_blog||[]).push([[7416],{6435:e=>{e.exports=JSON.parse('{"label":"Web Accessibility","permalink":"/blog/tags/web-accessibility","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhaochen_blog=self.webpackChunkhaochen_blog||[]).push([[4565],{9227:l=>{l.exports=JSON.parse('{"label":"Blob Function","permalink":"/blog/tags/blob-function","allTagsPath":"/blog/tags","count":1}')}}]);

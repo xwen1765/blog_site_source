@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhaochen_blog=self.webpackChunkhaochen_blog||[]).push([[5252],{7145:e=>{e.exports=JSON.parse('{"label":"receipe","permalink":"/zh-cn/blog/tags/receipe","allTagsPath":"/zh-cn/blog/tags","count":1}')}}]);

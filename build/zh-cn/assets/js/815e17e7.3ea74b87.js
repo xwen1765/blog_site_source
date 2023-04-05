@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhaochen_blog=self.webpackChunkhaochen_blog||[]).push([[6419],{5525:e=>{e.exports=JSON.parse('{"label":"contentful","permalink":"/zh-cn/blog/tags/contentful","allTagsPath":"/zh-cn/blog/tags","count":1}')}}]);

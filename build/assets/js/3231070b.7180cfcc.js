@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhaochen_blog=self.webpackChunkhaochen_blog||[]).push([[292],{7904:e=>{e.exports=JSON.parse('{"label":"furniture","permalink":"/blog/tags/furniture","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,5 +1,5 @@
 {
-  "/zh-cn/blog-7b7": {
+  "/blog-6a2": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "f289a115"
@@ -7,123 +7,27 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "c113fdce"
-      },
-      {
-        "content": "4f74bb36"
-      },
-      {
-        "content": "3d0ca3a6"
-      },
-      {
-        "content": "cdbdc23e"
-      },
-      {
-        "content": "ffba647f"
-      },
-      {
-        "content": "c6a64a9d"
-      },
-      {
-        "content": "5b1a719e"
-      },
-      {
-        "content": "d3106aaa"
-      },
-      {
-        "content": "d6118a33"
-      },
-      {
-        "content": "a28833a4"
+        "content": "fd0d0d8f"
       }
     ],
-    "metadata": "b91266d6"
+    "metadata": "b2b675dd"
   },
-  "/zh-cn/blog/A_Simple_Recipe_React_App-9d1": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "content": "5cd5e095"
-  },
-  "/zh-cn/blog/archive-ae5": {
+  "/blog/archive-7fe": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "f289a115"
     },
-    "archive": "465ed234"
+    "archive": "b2f554cd"
   },
-  "/zh-cn/blog/azure-app-service-custom-domain-c8d": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "content": "a78fd45e"
-  },
-  "/zh-cn/blog/azure-blob-function-retriggering-dc3": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "content": "ff5eaeb6"
-  },
-  "/zh-cn/blog/djang0-blog-42c": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "content": "e6737998"
-  },
-  "/zh-cn/blog/first_blog-9de": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "content": "36927337"
-  },
-  "/zh-cn/blog/page/2-e44": {
-    "__comp": "a6aa9e1f",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "4736e0a6"
-      }
-    ],
-    "metadata": "17fbb55d"
-  },
-  "/zh-cn/blog/protect-app-service-from-ddos-attacks-d38": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "content": "08820f3f"
-  },
-  "/zh-cn/blog/React Furniture Store-ede": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "content": "c4d37d1e"
-  },
-  "/zh-cn/blog/tags-a76": {
+  "/blog/tags-375": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "f289a115"
     },
     "sidebar": "814f3328",
-    "tags": "2d1601b3"
+    "tags": "a7023ddc"
   },
-  "/zh-cn/blog/tags/application-gateway-5d8": {
+  "/blog/tags/docusaurus-v-2-5c6": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "f289a115"
@@ -131,13 +35,13 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "c113fdce"
+        "content": "fd0d0d8f"
       }
     ],
-    "tag": "6986ca6d",
-    "listMetadata": "0ea2822b"
+    "tag": "a95024e1",
+    "listMetadata": "1e7a3abd"
   },
-  "/zh-cn/blog/tags/aws-s-3-8fb": {
+  "/blog/tags/hello-be3": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "f289a115"
@@ -145,480 +49,84 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "ffba647f"
+        "content": "fd0d0d8f"
       }
     ],
-    "tag": "713c3c9f",
-    "listMetadata": "5a93886f"
+    "tag": "30a24c52",
+    "listMetadata": "66406991"
   },
-  "/zh-cn/blog/tags/azure-app-service-24e": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "c113fdce"
-      },
-      {
-        "content": "4f74bb36"
-      },
-      {
-        "content": "3d0ca3a6"
-      }
-    ],
-    "tag": "2d13b45f",
-    "listMetadata": "d3ade480"
-  },
-  "/zh-cn/blog/tags/azure-functions-d1e": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "3d0ca3a6"
-      }
-    ],
-    "tag": "8f3179d6",
-    "listMetadata": "0d3e1794"
-  },
-  "/zh-cn/blog/tags/backend-e99": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "5b1a719e"
-      }
-    ],
-    "tag": "f7ab593e",
-    "listMetadata": "9f7ac3b5"
-  },
-  "/zh-cn/blog/tags/blob-function-500": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "3d0ca3a6"
-      }
-    ],
-    "tag": "e63522dc",
-    "listMetadata": "900d6473"
-  },
-  "/zh-cn/blog/tags/bucket-operation-82d": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "ffba647f"
-      }
-    ],
-    "tag": "0c592004",
-    "listMetadata": "09fdd938"
-  },
-  "/zh-cn/blog/tags/certificate-b63": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "4f74bb36"
-      }
-    ],
-    "tag": "cb55fd49",
-    "listMetadata": "dc57f076"
-  },
-  "/zh-cn/blog/tags/contentful-58a": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "d6118a33"
-      }
-    ],
-    "tag": "815e17e7",
-    "listMetadata": "3e008e3f"
-  },
-  "/zh-cn/blog/tags/custom-domain-4f8": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "4f74bb36"
-      }
-    ],
-    "tag": "cfcbb306",
-    "listMetadata": "f1e423f7"
-  },
-  "/zh-cn/blog/tags/d-do-s-fcb": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "c113fdce"
-      }
-    ],
-    "tag": "bf670181",
-    "listMetadata": "ddc15e5c"
-  },
-  "/zh-cn/blog/tags/deep-copy-cf8": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "c6a64a9d"
-      }
-    ],
-    "tag": "7a0969de",
-    "listMetadata": "3e9505d9"
-  },
-  "/zh-cn/blog/tags/django-3eb": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "5b1a719e"
-      }
-    ],
-    "tag": "3a8ef4b4",
-    "listMetadata": "fa09b374"
-  },
-  "/zh-cn/blog/tags/docusaurus-191": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "4736e0a6"
-      }
-    ],
-    "tag": "6690a683",
-    "listMetadata": "b426020b"
-  },
-  "/zh-cn/blog/tags/edamam-df6": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "a28833a4"
-      }
-    ],
-    "tag": "ac3fa96a",
-    "listMetadata": "a584a51b"
-  },
-  "/zh-cn/blog/tags/furniture-428": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "d6118a33"
-      }
-    ],
-    "tag": "1088e4b2",
-    "listMetadata": "00f0277d"
-  },
-  "/zh-cn/blog/tags/heroku-558": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "5b1a719e"
-      }
-    ],
-    "tag": "7252e4b8",
-    "listMetadata": "65137370"
-  },
-  "/zh-cn/blog/tags/https-72c": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "4f74bb36"
-      }
-    ],
-    "tag": "5afda0ef",
-    "listMetadata": "bcc6d409"
-  },
-  "/zh-cn/blog/tags/interview-qustions-48d": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "cdbdc23e"
-      }
-    ],
-    "tag": "26c7970f",
-    "listMetadata": "071fa483"
-  },
-  "/zh-cn/blog/tags/java-script-e53": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "cdbdc23e"
-      }
-    ],
-    "tag": "4b3395fe",
-    "listMetadata": "e8438193"
-  },
-  "/zh-cn/blog/tags/javascript-2a0": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "c6a64a9d"
-      }
-    ],
-    "tag": "550fcb4c",
-    "listMetadata": "347afd29"
-  },
-  "/zh-cn/blog/tags/node-js-413": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "ffba647f"
-      }
-    ],
-    "tag": "d560761b",
-    "listMetadata": "3a5f926e"
-  },
-  "/zh-cn/blog/tags/paas-034": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "3d0ca3a6"
-      }
-    ],
-    "tag": "d6aa8c3a",
-    "listMetadata": "f9125fc5"
-  },
-  "/zh-cn/blog/tags/react-3eb": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "d6118a33"
-      },
-      {
-        "content": "a28833a4"
-      },
-      {
-        "content": "4736e0a6"
-      }
-    ],
-    "tag": "55bc2bdd",
-    "listMetadata": "5ac70daa"
-  },
-  "/zh-cn/blog/tags/receipe-5c5": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "a28833a4"
-      }
-    ],
-    "tag": "f288fd21",
-    "listMetadata": "34bf368a"
-  },
-  "/zh-cn/blog/tags/shallow-copy-0f3": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "c6a64a9d"
-      }
-    ],
-    "tag": "207f57bd",
-    "listMetadata": "ef69790d"
-  },
-  "/zh-cn/blog/tags/tls-ssl-binding-c41": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "4f74bb36"
-      }
-    ],
-    "tag": "6f26f864",
-    "listMetadata": "46c8adb6"
-  },
-  "/zh-cn/blog/tags/waf-ec8": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "c113fdce"
-      }
-    ],
-    "tag": "99b3d666",
-    "listMetadata": "29ed94a8"
-  },
-  "/zh-cn/blog/tags/web-accessibility-3e2": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "d3106aaa"
-      }
-    ],
-    "tag": "bd145435",
-    "listMetadata": "2cc9e917"
-  },
-  "/zh-cn/blog/tags/web-development-5a2": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "d3106aaa"
-      }
-    ],
-    "tag": "c3e601e4",
-    "listMetadata": "2ba38044"
-  },
-  "/zh-cn/blog/understand-copy-in-js-093": {
+  "/blog/welcome-docusaurus-v2-083": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "f289a115"
     },
     "sidebar": "814f3328",
-    "content": "f57864fa"
+    "content": "235d3c66"
   },
-  "/zh-cn/blog/understand-this-in-one-article-d22": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "content": "9a740856"
-  },
-  "/zh-cn/blog/upload-files-to-s3-iwth-node-2f5": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "content": "1aea35f9"
-  },
-  "/zh-cn/blog/web-accessibility-2d4": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "f289a115"
-    },
-    "sidebar": "814f3328",
-    "content": "2818f1da"
-  },
-  "/zh-cn/docs-bf6": {
+  "/docs-cc3": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "be909a57"
     },
     "versionMetadata": "935f2afb"
   },
-  "/zh-cn/docs-7e0": {
+  "/docs/IIT-f4c": {
     "__comp": "17896441",
-    "content": "b2f90839"
+    "content": "89301a47"
   },
-  "/zh-cn/docs/doc2-b85": {
+  "/docs/IIT/doc2-819": {
     "__comp": "17896441",
-    "content": "df361e2b"
+    "content": "b67011cf"
   },
-  "/zh-cn/docs/doc3-3b4": {
+  "/docs/IIT/doc3-190": {
     "__comp": "17896441",
-    "content": "616665f6"
+    "content": "b85b732c"
   },
-  "/zh-cn/docs/mdx-c3d": {
+  "/docs/Quaddle-b41": {
     "__comp": "17896441",
-    "content": "ce3e42ad"
+    "content": "10f72634"
   },
-  "/zh-cn/docs/test/mdx2-cbc": {
+  "/docs/Quaddle2.0/quaddle_02-6c9": {
+    "__comp": "17896441",
+    "content": "09ad15f6"
+  },
+  "/docs/Quaddle2.0/quaddle_03-5ae": {
+    "__comp": "17896441",
+    "content": "c0a546c9"
+  },
+  "/docs/Quaddle2.0/quaddle_04-6a0": {
+    "__comp": "17896441",
+    "content": "3b959baf"
+  },
+  "/docs/Quaddle2.0/quaddle_05-f25": {
+    "__comp": "17896441",
+    "content": "869e6252"
+  },
+  "/docs/SL-b6b": {
+    "__comp": "17896441",
+    "content": "7169b343"
+  },
+  "/docs/test/doc1-010": {
+    "__comp": "17896441",
+    "content": "50ccaa23"
+  },
+  "/docs/test/doc2-c87": {
+    "__comp": "17896441",
+    "content": "43c22ae4"
+  },
+  "/docs/test/doc3-a79": {
+    "__comp": "17896441",
+    "content": "dda3bad1"
+  },
+  "/docs/test/mdx-04e": {
     "__comp": "17896441",
     "content": "1abea89e"
   },
-  "/zh-cn/docs/test/mdx3-425": {
+  "/docs/test/mdx3-f75": {
     "__comp": "17896441",
     "content": "f78249fa"
   },
-  "/zh-cn/-26b": {
+  "/-d4a": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "c18e38e9"

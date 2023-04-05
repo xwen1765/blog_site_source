@@ -7,8 +7,8 @@ export default {
   "title": "Xuan Wen",
   "titleDelimiter": "-",
   "url": "https://xwen1765.github.io",
-  "baseUrl": "/zh-cn/",
-  "favicon": "img/xuan_logo_character.png",
+  "baseUrl": "/",
+  "favicon": "img/favicon.png",
   "organizationName": "xwen1765",
   "projectName": "xwen1765.github.io",
   "trailingSlash": false,
@@ -38,12 +38,12 @@ export default {
   ],
   "themeConfig": {
     "colorMode": {
-      "defaultMode": "dark",
+      "defaultMode": "light",
       "disableSwitch": false,
       "respectPrefersColorScheme": false
     },
     "navbar": {
-      "title": "温轩",
+      "title": "Xuan Wen",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/xuan_logo.png"
@@ -51,20 +51,25 @@ export default {
       "items": [
         {
           "type": "dropdown",
-          "to": "docs/",
+          "to": "docs/IIT",
           "activeBasePath": "docs",
           "label": "Articles",
           "position": "right",
           "items": [
             {
               "type": "doc",
-              "label": "test1",
-              "docId": "doc1"
+              "label": "IIT (Φ👀)",
+              "docId": "IIT/doc1"
             },
             {
               "type": "doc",
-              "label": "test2",
-              "docId": "test/mdx2"
+              "label": "Sequence Learning 🧠",
+              "docId": "Sequence Learning/SL_Intro"
+            },
+            {
+              "type": "doc",
+              "label": "Quaddle2.0",
+              "docId": "Quaddle2.0/quaddle_01"
             }
           ]
         },
@@ -73,6 +78,11 @@ export default {
           "position": "left",
           "dropdownItemsBefore": [],
           "dropdownItemsAfter": []
+        },
+        {
+          "to": "blog",
+          "label": "Reading Notes",
+          "position": "right"
         },
         {
           "href": "https://github.com/xwen1765",
@@ -89,20 +99,20 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "社交平台",
+          "title": "Social Media",
           "items": [
             {
-              "label": "领英",
+              "label": "Linkedin",
               "href": "https://linkedin.com/in/xuan-wen"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://linkedin.com/in/xuan-wen"
             }
           ]
         },
         {
-          "title": "更多",
+          "title": "More",
           "items": [
             {
               "label": "GitHub",
@@ -110,11 +120,14 @@ export default {
             },
             {
               "html": "\n              <a href=\"https://storyset.com/education\">Education illustrations by Storyset</a>\n                "
+            },
+            {
+              "html": "\n              <a href=\"https://storyset.com/data\">Data illustrations by Storyset</a>\n                "
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2021 Xuan Wen Built with Docusaurus."
+      "copyright": "Copyright © 2023 Xuan Wen. Built with Docusaurus."
     },
     "docs": {
       "versionPersistence": "localStorage",

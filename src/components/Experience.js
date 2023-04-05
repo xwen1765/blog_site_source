@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAngleDoubleRight, faUniversity } from "@fortawesome/free-solid-svg-icons";
 import Translate from "@docusaurus/Translate";
+
 const experience = [
   {
     company:  <Translate>Vanderbilt University</Translate>,
@@ -71,7 +72,6 @@ function Experience() {
               </div>
             );
           })}
-          
         </article>
       </div>
       

@@ -11,6 +11,7 @@ import styles from "./styles.module.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useTrail, animated, useSpring } from "react-spring";
 import { faLinkedin, faGithub, faWeixin } from "@fortawesome/free-brands-svg-icons";
+import {faEnvelope} from "@fortawesome/free-regular-svg-icons"
 import resume from "../../static/files/CV.pdf";
 import Projects from "../components/Projects";
 // import Contact from "../components/Contact";
@@ -37,9 +38,9 @@ function Home() {
     delay: 200,
   });
 
-  const animatedTextsMainbody = useTrail(5, {
+  const animatedTextsMainbody = useTrail(1, {
     from: { opacity: 0, transform: "translateY(3em)" },
-    to: { opacity: 0.8, transform: "translateY(0)" },
+    to: { opacity: 1, transform: "translateY(0)" },
     config: {
       mass: 3,
       friction: 45,
@@ -48,11 +49,34 @@ function Home() {
     delay: 200,
   });
 
+  const animatedExperience = useTrail(1, {
+    from: { opacity: 0, transform: "translateY(3em)" },
+    to: { opacity: 1, transform: "translateY(0)" },
+    config: {
+      mass: 3,
+      friction: 80,
+      tension: 460,
+    },
+    delay: 400,
+  });
+
+
+  const animatedExperience2 = useTrail(1, {
+    from: { opacity: 0, transform: "translateY(3em)" },
+    to: { opacity: 0.8, transform: "translateY(0)" },
+    config: {
+      mass: 3,
+      friction: 80,
+      tension: 460,
+    },
+    delay: 600,
+  });
+
   return (
     <Layout
       //title={` ${siteConfig.title}`}
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="Xuan's Personal Blog"
     >
       <Grid container spacing={2} style={{ padding: "5%" }} className="hero">
         {/*Personal Intro */}
@@ -69,22 +93,11 @@ function Home() {
           <animated.div style={{...animatedTextsMainbody[0], fontSize: '20px'}}>
             <Typography variant="body0">
               <Translate>
-                PhD student in Neuroscience at Vanderbilt University, Brain Institute (VBI). 
-                Interested in higher-order cognitive function, human and machine intelligence and computational neuroscience.
+              I am a PhD student in Neuroscience at Vanderbilt University's Brain Institute (VBI). My passion lies in the study of higher-order cognitive function, human and machine intelligence, and computational neuroscience. I believe that a better understanding of the brain will lead to a more intelligent and efficient society. I am eager to share my journey and discoveries with all of you as I continue to explore the fascinating world of neuroscience!
               </Translate>{" "}
             </Typography>
           </animated.div>
           &nbsp;
-          {/* <animated.div style={animatedTexts[2]}>
-            <Typography variant="h6" gutterBottom>
-              <Translate>My Skills:</Translate>
-            </Typography>
-            <Typography variant="body1" gutterBottom>
-              React.js, React Native, Node.js, Material UI, JavaScript, HTML5,
-              Azure, etc.
-            </Typography>
-          </animated.div>
-          &nbsp; */}
           <animated.p style={animatedTexts[2]}>
             <Button
               style={{ textTransform: "none", borderWidth: "3px" }}
@@ -110,11 +123,15 @@ function Home() {
       </Grid>
       {/* Experiences section */}
       <Grid>
+      <animated.p style={animatedExperience[0]}>
         <Experience />
+      </animated.p>
       </Grid>
       {/* Projects section */}
       <Grid>
+      <animated.p style={animatedExperience2[0]}>
         <Projects />
+      </animated.p>
       </Grid>
       {/* Contact form */}
       {/* <Grid>
@@ -135,7 +152,7 @@ function SocialLinks({ animatedProps, ...props }) {
           </Typography>
         </Grid>
         <Grid item>
-          <a href="https://www.linkedin.com/in/hcq/">
+          <a href="https://linkedin.com/in/xuan-wen">
             <FontAwesomeIcon icon={faLinkedin}  style={{ fontSize: '32px' }}/>
           </a>
         </Grid>
@@ -147,6 +164,11 @@ function SocialLinks({ animatedProps, ...props }) {
         <Grid item>
           <a href="img/weixin.jpg">
             <FontAwesomeIcon icon={faWeixin} style={{ fontSize: '32px' }}/>
+          </a>
+        </Grid>
+        <Grid item>
+          <a href="mailto:xuan.wen@vanderbilt.edu">
+            <FontAwesomeIcon icon={faEnvelope} style={{ fontSize: '32px' }}/>
           </a>
         </Grid>
 
