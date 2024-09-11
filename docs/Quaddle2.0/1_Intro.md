@@ -136,7 +136,7 @@ import ThemedImage from '@theme/ThemedImage';
 
 Both Blender and Quaddle2.0 code are open-source.
 
-All the source code of Quaddle2.0 can be found on our Github: [Quaddle2.0 Github Repo](https://github.com/xwen1765/blender-quaddle) (Currently in private mode, will update later).
+All the source code of Quaddle2.0 can be found on our Github: [Quaddle2.0 Github Repo](https://github.com/xwen1765/blender-quaddle). 
 
 To download blender, you can use this link for the latest version: [Download Blender](https://www.blender.org/download/). 
 
@@ -152,3 +152,4 @@ For more detailed information please check next page.
 
 ### Support and Community
 [Contact Author](mailto:xuan.wen@vanderbilt.edu)
+[Contact Attention-Circuits-Control Lab](http://accl.psy.vanderbilt.edu)
