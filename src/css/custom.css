@@ -229,7 +229,7 @@ html[data-theme="dark"] .hero {
   display: inline-flex;
   align-self: center;
   animation: fade-in 0.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
-  padding: 0 5px 0 5px;
+  padding: 5px 0px 5px 0;
 }
 
 @keyframes slidelogo {

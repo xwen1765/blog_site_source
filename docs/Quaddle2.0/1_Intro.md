@@ -39,12 +39,6 @@ import ThemedImage from '@theme/ThemedImage';
         <img alt="#" src={require('../../static/img/Blender/scroll/example036.png').default}/>
       </div>
       <div class="logo-div">
-        <img alt="#" src={require('../../static/img/Blender/scroll/example037.png').default}/>
-      </div>
-      <div class="logo-div">
-        <img alt="#" src={require('../../static/img/Blender/scroll/example038.png').default}/>
-      </div>
-      <div class="logo-div">
         <img alt="#" src={require('../../static/img/Blender/scroll/example039.png').default}/>
       </div>
       <div class="logo-div">
@@ -60,12 +54,6 @@ import ThemedImage from '@theme/ThemedImage';
       </div>
       <div class="logo-div">
         <img alt="#" src={require('../../static/img/Blender/scroll/example036.png').default}/>
-      </div>
-      <div class="logo-div">
-        <img alt="#" src={require('../../static/img/Blender/scroll/example037.png').default}/>
-      </div>
-      <div class="logo-div">
-        <img alt="#" src={require('../../static/img/Blender/scroll/example038.png').default}/>
       </div>
       <div class="logo-div">
         <img alt="#" src={require('../../static/img/Blender/scroll/example039.png').default}/>
@@ -150,9 +138,13 @@ Both Blender and Quaddle2.0 code are open-source.
 
 All the source code of Quaddle2.0 can be found on our Github: [Quaddle2.0 Github Repo](https://github.com/xwen1765/blender-quaddle) (Currently in private mode, will update later).
 
-To download blender, please use this link [Download Blender](https://www.blender.org/download/)
+To download blender, you can use this link for the latest version: [Download Blender](https://www.blender.org/download/). 
+
+But for current Quaddle2.0 scripts, they can only run on Blender version 3.4. [Blender Archives](https://download.blender.org/release/)
 
 :::info
+Current Quaddle code only work with Blender version 3.4. Since newer version changed logic for link texture and color projection.
+
 For more detailed information please check next page.
 :::
 

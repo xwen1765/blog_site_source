@@ -1,5 +1,5 @@
 {
-  "/blog-6a2": {
+  "/zh-cn/blog-16e": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "f289a115"
@@ -10,24 +10,24 @@
         "content": "fd0d0d8f"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "b91266d6"
   },
-  "/blog/archive-7fe": {
+  "/zh-cn/blog/archive-ae5": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "f289a115"
     },
-    "archive": "b2f554cd"
+    "archive": "465ed234"
   },
-  "/blog/tags-375": {
+  "/zh-cn/blog/tags-a76": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "f289a115"
     },
     "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "tags": "2d1601b3"
   },
-  "/blog/tags/docusaurus-v-2-5c6": {
+  "/zh-cn/blog/tags/docusaurus-v-2-d04": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "f289a115"
@@ -38,10 +38,10 @@
         "content": "fd0d0d8f"
       }
     ],
-    "tag": "a95024e1",
-    "listMetadata": "1e7a3abd"
+    "tag": "c4040632",
+    "listMetadata": "35d2cbd8"
   },
-  "/blog/tags/hello-be3": {
+  "/zh-cn/blog/tags/hello-4ee": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "f289a115"
@@ -52,10 +52,10 @@
         "content": "fd0d0d8f"
       }
     ],
-    "tag": "30a24c52",
-    "listMetadata": "66406991"
+    "tag": "29f76e1d",
+    "listMetadata": "594f56d2"
   },
-  "/blog/welcome-docusaurus-v2-083": {
+  "/zh-cn/blog/welcome-docusaurus-v2-c65": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "f289a115"
@@ -63,70 +63,70 @@
     "sidebar": "814f3328",
     "content": "235d3c66"
   },
-  "/docs-cc3": {
+  "/zh-cn/docs-60e": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "be909a57"
     },
     "versionMetadata": "935f2afb"
   },
-  "/docs/IIT-f4c": {
+  "/zh-cn/docs/IIT-7f0": {
     "__comp": "17896441",
     "content": "89301a47"
   },
-  "/docs/IIT/doc2-819": {
+  "/zh-cn/docs/IIT/doc2-c2b": {
     "__comp": "17896441",
     "content": "b67011cf"
   },
-  "/docs/IIT/doc3-190": {
+  "/zh-cn/docs/IIT/doc3-4ab": {
     "__comp": "17896441",
     "content": "b85b732c"
   },
-  "/docs/Quaddle-b41": {
+  "/zh-cn/docs/Quaddle-ff9": {
     "__comp": "17896441",
     "content": "10f72634"
   },
-  "/docs/Quaddle2.0/quaddle_02-6c9": {
+  "/zh-cn/docs/Quaddle2.0/quaddle_02-cb1": {
     "__comp": "17896441",
     "content": "09ad15f6"
   },
-  "/docs/Quaddle2.0/quaddle_03-5ae": {
+  "/zh-cn/docs/Quaddle2.0/quaddle_03-dad": {
     "__comp": "17896441",
     "content": "c0a546c9"
   },
-  "/docs/Quaddle2.0/quaddle_04-6a0": {
+  "/zh-cn/docs/Quaddle2.0/quaddle_04-8c7": {
     "__comp": "17896441",
     "content": "3b959baf"
   },
-  "/docs/Quaddle2.0/quaddle_05-f25": {
+  "/zh-cn/docs/Quaddle2.0/quaddle_05-ea6": {
     "__comp": "17896441",
     "content": "869e6252"
   },
-  "/docs/SL-b6b": {
+  "/zh-cn/docs/SL-2d9": {
     "__comp": "17896441",
     "content": "7169b343"
   },
-  "/docs/test/doc1-010": {
+  "/zh-cn/docs/test/doc1-1f2": {
     "__comp": "17896441",
     "content": "50ccaa23"
   },
-  "/docs/test/doc2-c87": {
+  "/zh-cn/docs/test/doc2-e82": {
     "__comp": "17896441",
     "content": "43c22ae4"
   },
-  "/docs/test/doc3-a79": {
+  "/zh-cn/docs/test/doc3-fe8": {
     "__comp": "17896441",
     "content": "dda3bad1"
   },
-  "/docs/test/mdx-04e": {
+  "/zh-cn/docs/test/mdx-678": {
     "__comp": "17896441",
     "content": "1abea89e"
   },
-  "/docs/test/mdx3-f75": {
+  "/zh-cn/docs/test/mdx3-425": {
     "__comp": "17896441",
     "content": "f78249fa"
   },
-  "/-d4a": {
+  "/zh-cn/-26b": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "c18e38e9"

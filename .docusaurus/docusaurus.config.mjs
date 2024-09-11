@@ -7,7 +7,7 @@ export default {
   "title": "Xuan Wen",
   "titleDelimiter": "-",
   "url": "https://xwen1765.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/zh-cn/",
   "favicon": "img/favicon.png",
   "organizationName": "xwen1765",
   "projectName": "xwen1765.github.io",
@@ -43,7 +43,7 @@ export default {
       "respectPrefersColorScheme": false
     },
     "navbar": {
-      "title": "Xuan Wen",
+      "title": "温轩",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/xuan_logo.png"
@@ -99,10 +99,10 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Social Media",
+          "title": "社交平台",
           "items": [
             {
-              "label": "Linkedin",
+              "label": "领英",
               "href": "https://linkedin.com/in/xuan-wen"
             },
             {
@@ -112,7 +112,7 @@ export default {
           ]
         },
         {
-          "title": "More",
+          "title": "更多",
           "items": [
             {
               "label": "GitHub",
@@ -127,7 +127,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 Xuan Wen. Built with Docusaurus."
+      "copyright": "Copyright © 2021 Xuan Wen Built with Docusaurus."
     },
     "docs": {
       "versionPersistence": "localStorage",
