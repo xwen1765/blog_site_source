@@ -1,18 +1,19 @@
 {
-  "permalink": "/zh-cn/blog/welcome-docusaurus-v2",
+  "permalink": "/blog/welcome-docusaurus-v2",
   "source": "@site/blog/2019-09-05-hello-docusaurus-v2.md",
   "title": "Welcome Docusaurus v2 🔬",
   "description": "This is my first post on Docusaurus 2.",
   "date": "2021-09-30T10:00:00.000Z",
-  "formattedDate": "2021年9月30日",
   "tags": [
     {
+      "inline": true,
       "label": "hello",
-      "permalink": "/zh-cn/blog/tags/hello"
+      "permalink": "/blog/tags/hello"
     },
     {
+      "inline": true,
       "label": "docusaurus-v2",
-      "permalink": "/zh-cn/blog/tags/docusaurus-v-2"
+      "permalink": "/blog/tags/docusaurus-v-2"
     }
   ],
   "readingTime": 0.135,
@@ -23,7 +24,9 @@
       "title": "Co-creator of Docusaurus 1",
       "url": "https://github.com/JoelMarcey",
       "image_url": "https://github.com/JoelMarcey.png",
-      "imageURL": "https://github.com/JoelMarcey.png"
+      "imageURL": "https://github.com/JoelMarcey.png",
+      "key": null,
+      "page": null
     },
     {
       "name": "Sébastien Lorber",
@@ -31,7 +34,9 @@
       "url": "https://sebastienlorber.com",
       "image_url": "https://github.com/slorber.png",
       "email": "jimarcey@gmail.com",
-      "imageURL": "https://github.com/slorber.png"
+      "imageURL": "https://github.com/slorber.png",
+      "key": null,
+      "page": null
     }
   ],
   "frontMatter": {
@@ -62,5 +67,6 @@
     "image": "https://i.imgur.com/mErPwqL.png",
     "hide_table_of_contents": false,
     "date": "2021-09-30T10:00"
-  }
+  },
+  "unlisted": false
 }

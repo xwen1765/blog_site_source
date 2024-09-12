@@ -3,7 +3,9 @@
   "items": [
     {
       "title": "Welcome Docusaurus v2 🔬",
-      "permalink": "/zh-cn/blog/welcome-docusaurus-v2"
+      "permalink": "/blog/welcome-docusaurus-v2",
+      "unlisted": false,
+      "date": "2021-09-30T10:00:00.000Z"
     }
   ]
 }

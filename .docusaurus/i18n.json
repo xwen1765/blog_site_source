@@ -5,7 +5,7 @@
     "zh-cn"
   ],
   "path": "i18n",
-  "currentLocale": "zh-cn",
+  "currentLocale": "en",
   "localeConfigs": {
     "en": {
       "label": "English",

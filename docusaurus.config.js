@@ -13,6 +13,7 @@ module.exports = {
 
   organizationName: 'xwen1765',
   projectName: 'xwen1765.github.io',
+  deploymentBranch: 'main',
   trailingSlash: false,
 
   i18n: {

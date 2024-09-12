@@ -1,8 +1,8 @@
 {
-  "/zh-cn/blog-16e": {
+  "/blog-f05": {
     "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "f289a115"
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
@@ -10,27 +10,27 @@
         "content": "fd0d0d8f"
       }
     ],
-    "metadata": "b91266d6"
+    "__props": "c15d9823"
   },
-  "/zh-cn/blog/archive-ae5": {
+  "/blog/archive-182": {
     "__comp": "9e4087bc",
     "__context": {
-      "plugin": "f289a115"
+      "plugin": "36994c47"
     },
-    "archive": "465ed234"
+    "__props": "f81c1134"
   },
-  "/zh-cn/blog/tags-a76": {
+  "/blog/tags-287": {
     "__comp": "01a85c17",
     "__context": {
-      "plugin": "f289a115"
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "tags": "2d1601b3"
+    "__props": "3a2db09e"
   },
-  "/zh-cn/blog/tags/docusaurus-v-2-d04": {
+  "/blog/tags/docusaurus-v-2-49f": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "f289a115"
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
@@ -38,13 +38,12 @@
         "content": "fd0d0d8f"
       }
     ],
-    "tag": "c4040632",
-    "listMetadata": "35d2cbd8"
+    "__props": "57a47f6d"
   },
-  "/zh-cn/blog/tags/hello-4ee": {
+  "/blog/tags/hello-28f": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "f289a115"
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
@@ -52,84 +51,92 @@
         "content": "fd0d0d8f"
       }
     ],
-    "tag": "29f76e1d",
-    "listMetadata": "594f56d2"
+    "__props": "f82cd581"
   },
-  "/zh-cn/blog/welcome-docusaurus-v2-c65": {
+  "/blog/welcome-docusaurus-v2-5bf": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "f289a115"
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "content": "235d3c66"
   },
-  "/zh-cn/docs-60e": {
-    "__comp": "1be78505",
+  "/docs-e26": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "be909a57"
-    },
-    "versionMetadata": "935f2afb"
+      "plugin": "aba21aa0"
+    }
   },
-  "/zh-cn/docs/IIT-7f0": {
+  "/docs-e40": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
+  },
+  "/docs-2d4": {
+    "__comp": "a94703ab"
+  },
+  "/docs/IIT-799": {
     "__comp": "17896441",
     "content": "89301a47"
   },
-  "/zh-cn/docs/IIT/doc2-c2b": {
+  "/docs/IIT/doc2-636": {
     "__comp": "17896441",
     "content": "b67011cf"
   },
-  "/zh-cn/docs/IIT/doc3-4ab": {
+  "/docs/IIT/doc3-342": {
     "__comp": "17896441",
     "content": "b85b732c"
   },
-  "/zh-cn/docs/Quaddle-ff9": {
+  "/docs/Quaddle-c75": {
     "__comp": "17896441",
     "content": "10f72634"
   },
-  "/zh-cn/docs/Quaddle2.0/quaddle_02-cb1": {
+  "/docs/Quaddle2.0/quaddle_02-51b": {
     "__comp": "17896441",
     "content": "09ad15f6"
   },
-  "/zh-cn/docs/Quaddle2.0/quaddle_03-dad": {
+  "/docs/Quaddle2.0/quaddle_03-be9": {
     "__comp": "17896441",
     "content": "c0a546c9"
   },
-  "/zh-cn/docs/Quaddle2.0/quaddle_04-8c7": {
+  "/docs/Quaddle2.0/quaddle_04-112": {
     "__comp": "17896441",
     "content": "3b959baf"
   },
-  "/zh-cn/docs/Quaddle2.0/quaddle_05-ea6": {
+  "/docs/Quaddle2.0/quaddle_05-8a5": {
     "__comp": "17896441",
     "content": "869e6252"
   },
-  "/zh-cn/docs/SL-2d9": {
+  "/docs/SL-8ae": {
     "__comp": "17896441",
     "content": "7169b343"
   },
-  "/zh-cn/docs/test/doc1-1f2": {
+  "/docs/test/doc1-870": {
     "__comp": "17896441",
     "content": "50ccaa23"
   },
-  "/zh-cn/docs/test/doc2-e82": {
+  "/docs/test/doc2-f58": {
     "__comp": "17896441",
     "content": "43c22ae4"
   },
-  "/zh-cn/docs/test/doc3-fe8": {
+  "/docs/test/doc3-858": {
     "__comp": "17896441",
     "content": "dda3bad1"
   },
-  "/zh-cn/docs/test/mdx-678": {
+  "/docs/test/mdx-522": {
     "__comp": "17896441",
     "content": "1abea89e"
   },
-  "/zh-cn/docs/test/mdx3-425": {
+  "/docs/test/mdx3-146": {
     "__comp": "17896441",
     "content": "f78249fa"
   },
-  "/zh-cn/-26b": {
+  "/-2e1": {
     "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "c18e38e9"
+      "plugin": "a7456010"
     },
     "config": "5e9f5e1a"
   }

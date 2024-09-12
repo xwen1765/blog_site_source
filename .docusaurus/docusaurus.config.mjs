@@ -7,7 +7,7 @@ export default {
   "title": "Xuan Wen",
   "titleDelimiter": "-",
   "url": "https://xwen1765.github.io",
-  "baseUrl": "/zh-cn/",
+  "baseUrl": "/",
   "favicon": "img/favicon.png",
   "organizationName": "xwen1765",
   "projectName": "xwen1765.github.io",
@@ -43,7 +43,7 @@ export default {
       "respectPrefersColorScheme": false
     },
     "navbar": {
-      "title": "温轩",
+      "title": "Xuan Wen",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/xuan_logo.png"
@@ -99,10 +99,10 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "社交平台",
+          "title": "Social Media",
           "items": [
             {
-              "label": "领英",
+              "label": "Linkedin",
               "href": "https://linkedin.com/in/xuan-wen"
             },
             {
@@ -112,7 +112,7 @@ export default {
           ]
         },
         {
-          "title": "更多",
+          "title": "More",
           "items": [
             {
               "label": "GitHub",
@@ -127,13 +127,18 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 Xuan Wen Built with Docusaurus."
+      "copyright": "Copyright © 2024 Xuan Wen. Built with Docusaurus."
     },
     "docs": {
       "versionPersistence": "localStorage",
       "sidebar": {
         "hideable": false,
         "autoCollapseCategories": false
+      }
+    },
+    "blog": {
+      "sidebar": {
+        "groupByYear": true
       }
     },
     "metadata": [],
@@ -303,7 +308,15 @@ export default {
     ]
   ],
   "baseUrlIssueBanner": true,
+  "future": {
+    "experimental_storage": {
+      "type": "localStorage",
+      "namespace": false
+    },
+    "experimental_router": "browser"
+  },
   "onBrokenLinks": "throw",
+  "onBrokenAnchors": "warn",
   "onBrokenMarkdownLinks": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
@@ -317,6 +330,15 @@ export default {
   "tagline": "",
   "noIndex": false,
   "markdown": {
-    "mermaid": false
+    "format": "mdx",
+    "mermaid": false,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    }
   }
 };
