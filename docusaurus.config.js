@@ -13,7 +13,7 @@ module.exports = {
 
   organizationName: 'xwen1765',
   projectName: 'xwen1765.github.io',
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   i18n: {
